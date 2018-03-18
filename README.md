@@ -6,3 +6,7 @@ online crowdfunding platform yang memungkinkan orang - orang untuk menggalang da
 - Alfan Yusuf
 - Farahdina
 - Parama Fadli Kurnia
+
+# Apps
+- Front Office: http://www.justease.id/
+- Back Office: http://admin.justease.id/
